@@ -16,6 +16,9 @@
 
 
 ![Spiderman](https://poptv.orange.es/wp-content/uploads/sites/3/2020/08/spider-man-portada-1100x622.jpg)
->spiderman
-[ir a la imagen](https://poptv.orange.es/wp-content/uploads/sites/3/2020/08/spider-man-portada-1100x622.jpg)
->spiderman
+
+[Tutorial de markdown](https://www.markdowntutorial.com/)
+
+[Guía de github-markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
